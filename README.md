@@ -1,2 +1,2 @@
-# lp1-2018-1
-Conteúdo criado para a disciplina Linguagem de Programação I - 2018.1
+# Projeto Damas LP1
+Conteúdo criado para a disciplina Linguagem de Programação I - 2021.1
